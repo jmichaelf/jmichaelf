@@ -1,7 +1,7 @@
 <h1>Jorge Michael</h1>
 <p>💻&nbsp;Full Stack Developer</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmichaelf&show_icons=true&theme=dark&show_icons=true&count_private=true&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmichaelf&show_icons=true&theme=dark&show_icons=true&count_private=true)
 
 
 <!--
